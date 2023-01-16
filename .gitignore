@@ -1,1 +1,4 @@
 access.json
+*.csv
+*.zst
+keys.sh
